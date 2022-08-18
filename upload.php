@@ -102,7 +102,7 @@ session_start();
             fclose($csvFile);
             
         
-        header("location: index2.php");
+        header("location: index.php");
         
     }
         else
